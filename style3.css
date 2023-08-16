@@ -1,0 +1,28 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: url(Pink\ clouds.jpg) no-repeat;
+    background-size: cover;
+}
+.box {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    border: 5px solid black
+}
+h1, h2, h3 {
+    color: pink;
+}
